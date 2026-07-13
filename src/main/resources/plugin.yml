@@ -1,0 +1,7 @@
+name: VaultMySQL
+version: 1.0.0
+main: dev.alexanderkoch.vaultmysql.VaultMySQL
+api-version: 1.21
+depend: [Vault]
+description: MySQL-based Vault economy provider
+author: Alexander Koch
